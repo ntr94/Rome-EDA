@@ -16,13 +16,16 @@ Este análisis puede ser útil para propietarios de alojamientos en la ciudad, a
 
 Se presentan algunos ejemplos de las gráficas y visualizaciones generadas a partir del análisis de datos de Airbnb en Roma. Estas visualizaciones proporcionan una mejor comprensión del mercado de alquiler de viviendas en la ciudad y pueden ser útiles para aquellos interesados en el tema.
 
-Mapa interactivo de las ubicaciones.
+### Mapa interactivo de las ubicaciones.
+
 <img src="image/map_rome1.PNG" style="display: block; margin: auto;">
 
-Mapa interactivo del precio medio de los alojamientos para grupos de 4 personas.
+### Mapa interactivo del precio medio de los alojamientos para grupos de 4 personas.
+
 <img src="image/map_rome3.PNG" style="display: block; margin: auto;">
 
-Gráfico interactivo de la disponibilidad en el tiempo.
+### Gráfico interactivo de la disponibilidad en el tiempo.
+
 <img src="image/available_date.PNG" style="display: block; margin: auto;">
 
 
