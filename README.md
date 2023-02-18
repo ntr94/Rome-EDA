@@ -2,7 +2,8 @@
 
 🇪🇸
 [Español](#Español)
-[Español](#Español)
+
+[English](#English)
 
 # Español 
 
@@ -36,4 +37,34 @@ Espero que este proyecto sea de utilidad para aquellos interesados en el mercado
 
 <img src="image/worldcloud_rome.PNG" style="display: block; margin: auto;">
 
+# English
 
+## Introduction
+
+The objective of this project is to conduct a comprehensive exploratory analysis of the data provided by Airbnb in the city of Rome. The main goal is to understand the housing rental market in the city, identify patterns, and obtain valuable information from the data.
+
+Rome is a very popular tourist city, visited by millions of tourists each year. As a result, the housing rental market has expanded significantly in the city, with a large number of properties available on Airbnb. Through the analysis of Airbnb data in the city of Rome, we can obtain valuable information about the supply and demand of housing in the city, as well as the characteristics of the properties and the areas where they are located.
+
+This analysis can be useful for accommodation owners in the city, as well as for the general public seeking information about the housing rental market in Rome. By better understanding the market, owners can make informed decisions about the pricing and supply of their properties, while tourists can use this information to find the best accommodation option in the city.
+
+## Examples of Graphs and Visualizations from Airbnb Data Analysis in Rome
+
+Here are some examples of graphs and visualizations generated from Airbnb data analysis in Rome. These visualizations provide a better understanding of the housing rental market in the city and can be useful for those interested in the topic.
+
+### Interactive map of locations.
+
+<img src="image/map_rome1.PNG" style="display: block; margin: auto;">
+
+### Interactive map of average price for accommodations for groups of 4 people.
+
+<img src="image/map_rome3.PNG" style="display: block; margin: auto;">
+
+### Interactive chart of availability over time.
+
+<img src="image/available_date.PNG" style="display: block; margin: auto;">
+
+### Thank you for exploring Airbnb data in Rome!
+
+I hope this project is useful for those interested in the housing rental market in the city of Rome. Feel free to explore the data and use the graphs and visualizations to gain a better understanding of the market.
+
+<img src="image/worldcloud_rome.PNG" style="display: block; margin: auto;">
