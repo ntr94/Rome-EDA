@@ -1,6 +1,7 @@
 <img src="image/front_page.PNG" style="display: block; margin: auto;">
 
 :es:
+[Español](#Español)
 
 # Español 
 
