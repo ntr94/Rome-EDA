@@ -12,3 +12,8 @@ Roma es una ciudad turística muy popular, visitada por millones de turistas cad
 
 Este análisis puede ser útil para propietarios de alojamientos en la ciudad, así como también para el público en general que busca información sobre el mercado de alquiler de viviendas en Roma. Al entender mejor el mercado, los propietarios pueden tomar decisiones informadas sobre el precio y la oferta de sus propiedades, mientras que los turistas pueden usar esta información para encontrar la mejor opción de alojamiento en la ciudad.
 
+## Ejemplos de gráficas y visualizaciones del análisis de datos de Airbnb en Roma
+
+
+<img src="image/front_page.PNG" style="display: block; margin: auto;">
+
