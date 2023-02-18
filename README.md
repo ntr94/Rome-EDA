@@ -1,6 +1,5 @@
 <img src="image/front_page.PNG" style="display: block; margin: auto;">
 
-🇪🇸
 [Español](#Español)
 
 [English](#English)
