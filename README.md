@@ -14,6 +14,12 @@ Este análisis puede ser útil para propietarios de alojamientos en la ciudad, a
 
 ## Ejemplos de gráficas y visualizaciones del análisis de datos de Airbnb en Roma
 
+Se presentan algunos ejemplos de las gráficas y visualizaciones generadas a partir del análisis de datos de Airbnb en Roma. Estas visualizaciones proporcionan una mejor comprensión del mercado de alquiler de viviendas en la ciudad y pueden ser útiles para aquellos interesados en el tema.
 
-<img src="image/front_page.PNG" style="display: block; margin: auto;">
+<img src="image/map_rome1.PNG" style="display: block; margin: auto;">
+
+<img src="image/map_rome3.PNG" style="display: block; margin: auto;">
+
+<img src="image/available_date.PNG" style="display: block; margin: auto;">
+
 
