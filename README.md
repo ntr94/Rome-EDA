@@ -30,6 +30,6 @@ Se presentan algunos ejemplos de las gráficas y visualizaciones generadas a par
 
 Esperamos que este proyecto sea de utilidad para aquellos interesados en el mercado de alquiler de viviendas en la ciudad de Roma. Siéntete libre de explorar los datos y utilizar los gráficos y visualizaciones para obtener una mejor comprensión del mercado.
 
-<img src="image/worldcloud.PNG" style="display: block; margin: auto;">
+<img src="image/worldcloud_rome.PNG" style="display: block; margin: auto;">
 
 
