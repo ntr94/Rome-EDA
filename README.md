@@ -67,3 +67,4 @@ Here are some examples of graphs and visualizations generated from Airbnb data a
 I hope this project is useful for those interested in the housing rental market in the city of Rome. Feel free to explore the data and use the graphs and visualizations to gain a better understanding of the market.
 
 <img src="image/worldcloud_rome.PNG" style="display: block; margin: auto;">
+
